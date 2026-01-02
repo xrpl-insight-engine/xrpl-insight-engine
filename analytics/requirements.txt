@@ -1,0 +1,11 @@
+# Analytics dependencies for XRPL Insight Engine
+
+# PostgreSQL drivers
+psycopg2-binary>=2.9
+asyncpg>=0.29
+
+# Environment variable loading
+python-dotenv>=1.0
+
+# Async support (stdlib, listed for clarity)
+asyncio
